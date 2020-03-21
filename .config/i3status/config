@@ -59,7 +59,6 @@ battery 1 {
         format_down = "No Battery"
         status_chr = "Charging"
         status_bat = "Battery"
-        status_unk = "Unknown"
         status_full = "Charged"
         path = "/sys/class/power_supply/BAT%d/uevent"
         low_threshold = 10
